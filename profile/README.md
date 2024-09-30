@@ -1,6 +1,6 @@
 ## Welcome to A1Y Developer Github! 👋 👋 👋
 
-We are a team of platform engineers who firmly believe that [Platform Engineering](https://platformengineering.org/) accelerates innovation. Dynamic Configuration Management, Infrastructure Orchestration, and Release Management are the core components of the platform, and we are developing open-source toolkits to assist organizations in harnessing the power of Platform Engineering.
+Our team comprises platform engineers who firmly advocate for the ability of [Platform Engineering](https://platformengineering.org/) to expedite innovation. Dynamic Configuration Management, Infrastructure Orchestration, and Release Management stand as the fundamental pillars of our platform. Additionally, we are dedicated to crafting open-source toolkits aimed at enabling organizations to unleash the potential of Platform Engineering.
 
 ## Our Mission
 
